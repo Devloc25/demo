@@ -38,7 +38,7 @@
       position: relative;
       padding: 54px clamp(24px, 7vw, 64px) 48px;
       overflow: hidden;
-      background: linear-gradient(125deg, #1d4ed8, #4338ca);
+      background: linear-gradient(125deg, #b31dd8, #ab03e8);
       color: white;
     }
 
