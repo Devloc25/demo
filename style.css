@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Trang giới thiệu bản thân của Trần Viết Lộc, sinh viên Công nghệ thông tin tại Trường Cao đẳng ITC.">
-  <link rel="stylesheet" href="./style.css">
-  <title>Trần Viết Lộc</title>
-  <!-- <style>
     :root {
       color-scheme: light;
       --ink: #172554;
@@ -157,44 +148,3 @@
         grid-template-columns: 1fr;
       }
     }
-  </style> -->
-</head>
-<body>
-  <main class="profile">
-    <header class="hero">
-      <p class="eyebrow">Xin chào, mình là</p>
-      <h1>Trần Viết Lộc</h1>
-      <p class="subtitle">Sinh viên Công nghệ thông tin tại Trường Cao đẳng ITC.</p>
-    </header>
-
-    <section class="content" aria-labelledby="about-heading">
-      <p class="section-label" id="about-heading">Về bản thân</p>
-      <p class="intro">
-        Mình là Trần Viết Lộc, hiện đang theo học ngành Công nghệ thông tin tại
-        Trường Cao đẳng ITC.
-      </p>
-
-      <dl class="details">
-        <div class="detail">
-          <dt>Họ và tên</dt>
-          <dd>Trần Viết Lộc</dd>
-        </div>
-        <div class="detail">
-          <dt>Ngành học</dt>
-          <dd>Công nghệ thông tin</dd>
-        </div>
-        <div class="detail">
-          <dt>Trường</dt>
-          <dd>Trường Cao đẳng ITC</dd>
-        </div>
-        <div class="detail">
-          <dt>Vai trò</dt>
-          <dd>Sinh viên</dd>
-        </div>
-      </dl>
-
-      <footer>Rất vui vì bạn đã ghé thăm trang của mình!</footer>
-    </section>
-  </main>
-</body>
-</html>
